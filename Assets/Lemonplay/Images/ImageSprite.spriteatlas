@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ImageSprite
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 49b8200570d234f7387337c11432c54a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2d838c20522e147069bb92fa9aa9d58f, type: 3}
+  - {fileID: 21300000, guid: b5499d70c93e04db5b5a29a827b971b7, type: 3}
+  - {fileID: 21300000, guid: e582618008bf749e28fa785a6636363c, type: 3}
+  - {fileID: 21300000, guid: c84186a01de294c59b7f8709d681b7c8, type: 3}
+  - {fileID: 21300000, guid: 0f042ed0f005542b79f1c6964eaa11b9, type: 3}
+  - {fileID: 21300000, guid: e0ef21314ac7841649edc059e5b412d4, type: 3}
+  - {fileID: 21300000, guid: 62e72f8184a5644e39b808b71afc479f, type: 3}
+  - {fileID: 21300000, guid: 4a70d652ef4514f5ebdb6ebfa1e99ea1, type: 3}
+  - {fileID: 21300000, guid: c63ba4031a135498e9c82342a9981b32, type: 3}
+  - {fileID: 21300000, guid: bdc7da33dedd940f6847bdf28a32e286, type: 3}
+  - {fileID: 21300000, guid: 98aa1154344184f68b32223b12280773, type: 3}
+  - {fileID: 21300000, guid: e772a2c4ffeca4632a18886b75faeb2c, type: 3}
+  - {fileID: 21300000, guid: 665ac6d40006d4b53844a1bb8a44b506, type: 3}
+  - {fileID: 21300000, guid: dd9bb105638a742c785c799034cd95b2, type: 3}
+  - {fileID: 21300000, guid: 2bb5a815d498f4a9090a95e9a3fba965, type: 3}
+  - {fileID: 21300000, guid: 93b837a523867409db5485d313c92df7, type: 3}
+  - {fileID: 21300000, guid: f9621396686c348e6897372411a102da, type: 3}
+  - {fileID: 21300000, guid: dfe793c6c2e81464289033b7e1aa0409, type: 3}
+  - {fileID: 21300000, guid: d5cf88d654cf0428fb3c918df1859c6a, type: 3}
+  - {fileID: 21300000, guid: 341985672853f4ea092f362ad313e6bc, type: 3}
+  - {fileID: 21300000, guid: 90dd918856af94381974ababefbe0b03, type: 3}
+  - {fileID: 21300000, guid: b2d29089f19e24d3e9b1ccf5d82819b2, type: 3}
+  - {fileID: 21300000, guid: 08bb170a7667b45bd9a696994d6fb16e, type: 3}
+  - {fileID: 21300000, guid: 43d413ea3842546a2ac234d53b333c66, type: 3}
+  - {fileID: 21300000, guid: 83bf551b1e29d4337b65607f3edc7c19, type: 3}
+  - {fileID: 21300000, guid: 5e5b645b2a91b442fa1504c2153c5d41, type: 3}
+  - {fileID: 21300000, guid: 720f3e6b933a04373b8fc9b4d9487939, type: 3}
+  - {fileID: 21300000, guid: 8e817bbbe112e43adb349210b370dcf1, type: 3}
+  - {fileID: 21300000, guid: e51e83cb0aae140f0ad1b27be9c74c42, type: 3}
+  - {fileID: 21300000, guid: 24e44afb5cd5d48348938d0516aeb141, type: 3}
+  - {fileID: 21300000, guid: 94fc63ec5dae64304a196b444aedc67a, type: 3}
+  - {fileID: 21300000, guid: 2c7b065d4ab7b4dee82dc85566ecb012, type: 3}
+  - {fileID: 21300000, guid: 3e607dad2492940e1b18e37429522a31, type: 3}
+  - {fileID: 21300000, guid: 3f5bbddda081c40bca3c2085199fcc69, type: 3}
+  - {fileID: 21300000, guid: 9cdc82ae75aec4a399530b372e6a8687, type: 3}
+  - {fileID: 21300000, guid: 4c98baae9378e4683b26f432023a0874, type: 3}
+  - {fileID: 21300000, guid: ad590b3f2a7904382aa7782bfd66a074, type: 3}
+  - {fileID: 21300000, guid: 20c9c8df58fef43b6922c69b5df1451c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - LightPoints
+  - Suite_Logo
+  - Layer 2138
+  - R brow
+  - R shoe
+  - REyelid
+  - ' victory!_Shadow'
+  - cape
+  - REar
+  - LEeyelid
+  - Just_nose
+  - Happy
+  - brag btn
+  - open hand
+  - L eye
+  - Bet boost
+  - PvP_Logo
+  - Rectangle_yellow
+  - bear_knot
+  - collect btn
+  - fist hand
+  - L arm
+  - Superboost
+  - L eyer
+  - bang
+  - R_hand_Up
+  - head
+  - nose_shadow
+  - R ear shadow
+  - L brow copy
+  - L shoe
+  - Layer 2144
+  - Layer 73
+  - ' victory!_Text'
+  - R eye
+  - coin copy 17
+  - Bear_body
+  - R arm copy
+  m_RenderDataMap: {}
+  m_Tag: ImageSprite
+  m_IsVariant: 0
